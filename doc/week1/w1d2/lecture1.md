@@ -161,7 +161,7 @@ Making the graph amenable to Eulerian traversal
   vertices have even degree
 - A _De Bruijn_ graph connects symbolic sequence data such that every vertex is a sequence
   string of length _k_ (a "_k-mer_") that is connected to other such vertices if the 
-  the sequences are identical along the substring of length _k_-1, i.e. the sequences
+  sequences are identical along the substring of length _k_-1, i.e. the sequences
   are shifted one step relative to one another, which creates _directedness_ in the
   graph
 - The simplest cases, with binary sequence data, are shown for _k_ = 1..3 (imagine what
