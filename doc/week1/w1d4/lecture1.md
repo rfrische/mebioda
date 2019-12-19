@@ -203,7 +203,7 @@ Constructing a large metabarcoding phylogeny
   infer a tree (e.g. with [FastTree](http://microbesonline.org/fasttree/))
 - This tree then becomes the input tree for the Unifrac distance calculations (β 
   diversity), resulting in a distance matrix
-- From the distance matrix, a tree can clustered that, in this case, shows the similarity
+- From the distance matrix, a tree can be clustered that, in this case, shows the similarity
   among the post-spill sites
 
 Principal Coordinate Analysis
